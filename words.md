@@ -1,4 +1,4 @@
-# Unit 4 words
+# Unit ~~1~~ words
 
 1. take up with
    1. become friendly with someone, especially someone who could have a bad influence on you
@@ -14,6 +14,7 @@
       - sensational in a lurid or vulgar way.
 5. derange
    1. cause (someone) to become insane.
+
       - throw (something) into confusion; cause to act irregularly.
 6. ratify
    1. sign or give formal consent to (a treaty, contract, or agreement), making it officially valid.
@@ -21,7 +22,8 @@
    1. a strong negative reaction by a large number of people, especially to a social or political development.
 8. plod
    1. walk doggedly and slowly with heavy steps.
-9. stealth
+      - work slowly and perseveringly at a dull task.
+9.  stealth
    1. cautious and surreptitious action or movement.
    2. (chiefly of aircraft) designed in accordance with technology that makes detection by radar or sonar difficult.
 10. put on
@@ -38,4 +40,12 @@
     1. a place where bodies are kept, especially to be identified or claimed.
 13. prenatal
     1. before birth; during or relating to pregnancy.
-14. 
+14. interfere with
+    1. to stop or slow (something) : to make (something) slower or more difficult
+    2. (British) to touch (a child) in a sexual and improper way
+15. turn down
+     1. adjust a control on a device to reduce the volume or level.
+     2. reject something offered or proposed.
+16. juice up
+      1. liven something up.
+      2. supply a device with electricity.
