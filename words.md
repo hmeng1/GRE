@@ -1,4 +1,4 @@
-# Unit ~~1~~ words
+# Unit 1
 
 1. take up with
    1. become friendly with someone, especially someone who could have a bad influence on you
@@ -49,3 +49,13 @@
 16. juice up
       1. liven something up.
       2. supply a device with electricity.
+17. municipal
+    1.  relating to a city or town or its governing body.
+18. congested
+    1.  (of a road or place) so crowded with traffic or people as to hinder freedom of movement.
+    2.  (of a part of the body) abnormally full of blood.
+        1.  (of the respiratory tract) blocked with mucus so as to hinder breathing.
+19. heterogeneous
+    1.  diverse in character or content.
+        1. [Chemistry]of or denoting a process involving substances in different phases (solid, liquid, or gaseous)
+         2. [Mathematics] incommensurable through being of different kinds, degrees, or dimensions.
