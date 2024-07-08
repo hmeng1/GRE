@@ -24,8 +24,8 @@
    1. walk doggedly and slowly with heavy steps.
       - work slowly and perseveringly at a dull task.
 9.  stealth
-   1. cautious and surreptitious action or movement.
-   2. (chiefly of aircraft) designed in accordance with technology that makes detection by radar or sonar difficult.
+    1.  cautious and surreptitious action or movement.
+    2.  (chiefly of aircraft) designed in accordance with technology that makes detection by radar or sonar difficult.
 10. put on
     1. place a garment, piece of jewelry, etc. on part of one's body.
     2. cause a device to operate.
