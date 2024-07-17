@@ -1,4 +1,6 @@
-# Unit 1
+# Words 20 Per Week
+
+## Unit 1
 
 1. take up with
    1. become friendly with someone, especially someone who could have a bad influence on you
@@ -60,7 +62,7 @@
 20. plug away
     1. to continue doing something even though it is difficult or boring (often + at).
 
-# Unit 2
+## Unit 2
 
 1. surmise
    1. (v.) suppose that something is true without having evidence to confirm it;
