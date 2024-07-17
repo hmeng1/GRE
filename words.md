@@ -14,7 +14,6 @@
       - sensational in a lurid or vulgar way.
 5. derange
    1. cause (someone) to become insane.
-
       - throw (something) into confusion; cause to act irregularly.
 6. ratify
    1. sign or give formal consent to (a treaty, contract, or agreement), making it officially valid.
@@ -66,3 +65,6 @@
 1. surmise
    1. (v.) suppose that something is true without having evidence to confirm it;
    2. (n.) a supposition that something may be true, even though there is no evidence to confirm it.
+2. subsidize
+   1. support (an organization or activity) financially.
+      - pay part of the cost of producing (something) to reduce prices for the buyer.
