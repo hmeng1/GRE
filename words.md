@@ -70,3 +70,13 @@
 2. subsidize
    1. support (an organization or activity) financially.
       - pay part of the cost of producing (something) to reduce prices for the buyer.
+3. tenet
+   1. a principle or belief, especially one of the main principles of a religion or philosophy.
+4. perusal
+   1. the action of reading or examining something.
+5. camouflage
+   1. (n.) the disguising of military personnel, equipment, and installations by painting or covering them to make them blend in with their surroundings.
+   2. (v.) hide or disguise the presence of (a person, animal, or object) by means of camouflage.
+6. trifle
+   1. (n.) a thing of little value or importance.
+   2. (v.) treat (someone or something) without seriousness or respect.
