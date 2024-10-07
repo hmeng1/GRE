@@ -80,3 +80,7 @@
 6. trifle
    1. (n.) a thing of little value or importance.
    2. (v.) treat (someone or something) without seriousness or respect.
+7. precedence
+   1. the condition of being considered more important than someone or something else; priority in importance, order, or rank.
+      - the order to be ceremonially observed by people of different rank, according to an acknowledged or legally determined system.
+
