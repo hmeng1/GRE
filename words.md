@@ -1,86 +1,167 @@
-# Words 20 Per Week
+# 20 Words Per Week
 
 ## Unit 1
 
-1. take up with
-   1. become friendly with someone, especially someone who could have a bad influence on you
-2. snobbish
-   1. one who blatantly imitates, fawningly admires, or vulgarly seeks association with those regarded as social superiors
-   2.
-      - one who tends to rebuff, avoid, or ignore those regarded as inferior
-      - one who has an offensive air of superiority in matters of knowledge or taste
-3. plot with
-   1. to conspire, scheme, or make plans with one.
-4. tabloid
-   1. a newspaper having pages half the size of those of a standard newspaper, typically popular in style and dominated by headlines, photographs, and sensational stories.
-      - sensational in a lurid or vulgar way.
-5. derange
-   1. cause (someone) to become insane.
-      - throw (something) into confusion; cause to act irregularly.
-6. ratify
-   1. sign or give formal consent to (a treaty, contract, or agreement), making it officially valid.
-7. backslash
-   1. a strong negative reaction by a large number of people, especially to a social or political development.
-8. plod
-   1. walk doggedly and slowly with heavy steps.
-      - work slowly and perseveringly at a dull task.
-9. stealth
-    1. cautious and surreptitious action or movement.
-    2. (chiefly of aircraft) designed in accordance with technology that makes detection by radar or sonar difficult.
-10. put on
-    1. place a garment, piece of jewelry, etc. on part of one's body.
-    2. cause a device to operate.
-       - start cooking something.
-       - start to play recorded music or video.
-    3. organize or present a play, exhibition, or event.
-    4. increase in body weight by a specified amount.
-11. pew
-    1. a long bench with a back, placed in rows in the main part of some churches to seat the congregation.
-12. morgue
-    1. a place where bodies are kept, especially to be identified or claimed.
-13. prenatal
-    1. before birth; during or relating to pregnancy.
-14. interfere with
-    1. to stop or slow (something) : to make (something) slower or more difficult
-    2. (British) to touch (a child) in a sexual and improper way
-15. turn down
-     1. adjust a control on a device to reduce the volume or level.
-     2. reject something offered or proposed.
-16. juice up
-      1. liven something up.
-      2. supply a device with electricity.
-17. municipal
-    1. relating to a city or town or its governing body.
-18. congested
-    1. (of a road or place) so crowded with traffic or people as to hinder freedom of movement.
-    2. (of a part of the body) abnormally full of blood.
-        - (of the respiratory tract) blocked with mucus so as to hinder breathing.
-19. heterogeneous
-    1. diverse in character or content.
-        - [Chemistry]of or denoting a process involving substances in different phases (solid, liquid, or gaseous)
-    2. [Mathematics] incommensurable through being of different kinds, degrees, or dimensions.
-20. plug away
-    1. to continue doing something even though it is difficult or boring (often + at).
+### 1. Take up with *(phrasal verb)*
+**Meaning:**
+1. Become friendly with someone, especially someone who could have a bad influence on you.
+
+### 2. Snobbish *(adjective)*
+**Meaning:**
+1. Blatantly imitating, fawningly admiring, or vulgarly seeking association with those regarded as social superiors.
+2. Rebuking, avoiding, or ignoring those regarded as inferior.
+3. Having an offensive air of superiority in matters of knowledge or taste.
+
+### 3. Plot with *(phrasal verb)*
+**Meaning:**
+1. To conspire, scheme, or make plans with someone.
+
+### 4. Tabloid *(noun / adjective)*
+**Meaning:**
+1. A newspaper with pages about half the size of a standard newspaper, typically popular in style and dominated by headlines, photographs, and sensational stories.
+2. Sensational in a lurid or vulgar way.
+
+### 5. Derange *(verb)*
+**Meaning:**
+1. Cause someone to become insane.
+2. Throw something into confusion; cause it to act irregularly.
+
+### 6. Ratify *(verb)*
+**Meaning:**
+1. Sign or give formal consent to a treaty, contract, or agreement, making it officially valid.
+
+### 7. Backlash *(noun)*
+**Meaning:**
+1. A strong negative reaction by a large number of people, especially to a social or political development.
+
+### 8. Plod *(verb)*
+**Meaning:**
+1. Walk doggedly and slowly with heavy steps.
+2. Work slowly and perseveringly at a dull task.
+
+### 9. Stealth *(noun / adjective)*
+**Meaning:**
+1. Cautious and secretive action or movement.
+2. Designed with technology that makes detection by radar or sonar difficult, especially in aircraft.
+
+### 10. Put on *(phrasal verb)*
+**Meaning:**
+1. Place a garment, piece of jewelry, or similar item on one’s body.
+2. Cause a device to operate.
+3. Start cooking something.
+4. Start playing recorded music or video.
+5. Organize or present a play, exhibition, or event.
+6. Increase in body weight by a specified amount.
+
+### 11. Pew *(noun)*
+**Meaning:**
+1. A long bench with a back, placed in rows in the main part of a church for the congregation.
+
+### 12. Morgue *(noun)*
+**Meaning:**
+1. A place where bodies are kept, especially for identification or claiming.
+
+### 13. Prenatal *(adjective)*
+**Meaning:**
+1. Before birth; during or relating to pregnancy.
+
+### 14. Interfere with *(phrasal verb)*
+**Meaning:**
+1. To stop or slow something; to make something slower or more difficult.
+2. *(British usage)* To touch a child in a sexual and improper way.
+
+### 15. Turn down *(phrasal verb)*
+**Meaning:**
+1. Adjust a control on a device to reduce the volume or level.
+2. Reject something offered or proposed.
+
+### 16. Juice up *(phrasal verb)*
+**Meaning:**
+1. Liven something up.
+2. Supply a device with electricity.
+
+### 17. Municipal *(adjective)*
+**Meaning:**
+1. Relating to a city, town, or its governing body.
+
+### 18. Congested *(adjective)*
+**Meaning:**
+1. So crowded with traffic or people as to hinder freedom of movement.
+2. Abnormally full of blood.
+3. *(Of the respiratory tract)* Blocked with mucus so as to hinder breathing.
+
+### 19. Heterogeneous *(adjective)*
+**Meaning:**
+1. Diverse in character or content.
+2. *(Chemistry)* Denoting a process involving substances in different phases (solid, liquid, or gas).
+3. *(Mathematics)* Incommensurable through being of different kinds, degrees, or dimensions.
+
+### 20. Plug away *(phrasal verb)*
+**Meaning:**
+1. Continue doing something even though it is difficult or boring, often with persistence.
+
+---
 
 ## Unit 2
 
-1. surmise
-   1. (v.) suppose that something is true without having evidence to confirm it;
-   2. (n.) a supposition that something may be true, even though there is no evidence to confirm it.
-2. subsidize
-   1. support (an organization or activity) financially.
-      - pay part of the cost of producing (something) to reduce prices for the buyer.
-3. tenet
-   1. a principle or belief, especially one of the main principles of a religion or philosophy.
-4. perusal
-   1. the action of reading or examining something.
-5. camouflage
-   1. (n.) the disguising of military personnel, equipment, and installations by painting or covering them to make them blend in with their surroundings.
-   2. (v.) hide or disguise the presence of (a person, animal, or object) by means of camouflage.
-6. trifle
-   1. (n.) a thing of little value or importance.
-   2. (v.) treat (someone or something) without seriousness or respect.
-7. precedence
-   1. the condition of being considered more important than someone or something else; priority in importance, order, or rank.
-      - the order to be ceremonially observed by people of different rank, according to an acknowledged or legally determined system.
+### 1. Surmise *(verb / noun)*
+**Meaning:**
+1. *(Verb)* Suppose that something is true without evidence to confirm it.
+2. *(Noun)* A supposition that something may be true even though there is no evidence to confirm it.
 
+### 2. Subsidize *(verb)*
+**Meaning:**
+1. Support an organization or activity financially.
+2. Pay part of the cost of producing something in order to reduce the price for the buyer.
+
+### 3. Tenet *(noun)*
+**Meaning:**
+1. A principle or belief, especially one of the main principles of a religion or philosophy.
+
+### 4. Perusal *(noun)*
+**Meaning:**
+1. The action of reading or examining something.
+
+### 5. Camouflage *(noun / verb)*
+**Meaning:**
+1. *(Noun)* The disguising of military personnel, equipment, or installations to make them blend in with their surroundings.
+2. *(Verb)* Hide or disguise the presence of a person, animal, or object by means of camouflage.
+
+### 6. Trifle *(noun / verb)*
+**Meaning:**
+1. *(Noun)* A thing of little value or importance.
+2. *(Verb)* Treat someone or something without seriousness or respect.
+3. *(Archaic, verb)* Talk or act frivolously.
+
+### 7. Precedence *(noun)*
+**Meaning:**
+1. The condition of being considered more important than someone or something else; priority in importance, order, or rank.
+2. The ceremonial order observed by people of different rank according to an acknowledged or legally determined system.
+
+### 8. Retort *(verb / noun)*
+**Meaning:**
+1. *(Verb)* Say something in reply to a remark or accusation, typically in a sharp, angry, or witty manner.
+2. *(Noun)* A sharp, angry, or witty reply.
+
+### 9. Clamor *(noun / verb)*
+**Meaning:**
+1. *(Noun)* A loud and confused noise, especially that of people shouting vehemently.
+2. *(Verb)* Shout loudly and insistently.
+
+### 10. Transfix *(verb)*
+**Meaning:**
+1. Hold motionless by or as if by piercing.
+2. Pierce through with or as if with a pointed weapon.
+
+### 11. Saunter *(verb / noun)*
+**Meaning:**
+1. *(Verb)* Walk in a slow, relaxed manner, without hurry or effort.
+2. *(Noun)* A leisurely stroll.
+
+### 12. Alms *(noun)*
+**Meaning:**
+1. *(Historical context)* Money or food given to poor people.
+
+### 13. Beseech *(verb)*
+**Meaning:**
+1. Ask someone urgently and fervently to do something; implore; entreat.
